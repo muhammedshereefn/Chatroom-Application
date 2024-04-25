@@ -18,3 +18,7 @@ Experience seamless communication with our feature-rich chat application. Here's
 
 Join the conversation now and explore the endless possibilities of real-time communication! Check out our live demo and dive into the code on GitHub.
 
+
+OUT:
+![Screenshot (113)](https://github.com/muhammedshereefn/Chatroom-Application/assets/126606666/c65afc83-5f37-4783-b764-301fd0411ffc)
+
